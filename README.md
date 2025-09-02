@@ -21,7 +21,7 @@ O sistema permite registrar visitantes e listar quem já entrou, salvando as inf
 ## ▶️ Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/sistema-portaria.git
+   git clone https://github.com/TechDuu/sistema-portaria.git
    ```
 2. Acesse a pasta:
    ```bash
